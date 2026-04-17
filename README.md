@@ -1,16 +1,35 @@
-## Hi there 👋
+# Luiz Otávio da Silva Castanheira
 
-<!--
-**luizoscastanheira/luizoscastanheira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Sistemas | Desenvolvedor Full Stack
+Focado em arquitetura de dados, segurança e desenvolvimento de software. Recém-formado e atuando como freelancer na construção de soluções web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológica
+
+**Backend & Banco de Dados**
+`Node.js` `JavaScript (ES6+)` `SQL` `API REST`
+
+**Frontend**
+`HTML5` `CSS3` `Desenvolvimento Responsivo`
+
+**Em Aprendizado Ativo**
+`C#` `ASP.NET Core` `.NET Ecosystem`
+
+---
+
+## 🚀 Experiência e Foco
+* **Desenvolvimento Web:** Experiência com o ciclo completo de entrega, do front-end ao deploy.
+* **APIs:** Especialista em integração e construção de serviços escaláveis.
+* **Segurança de Dados:** Auditoria de vulnerabilidades e conformidade com privacidade.
+
+---
+
+## 📚 Educação e Certificações
+* **Análise e Desenvolvimento de Sistemas** (Graduado)
+* Foco atual: Arquitetura de Software com .NET
+
+---
+
+## 📫 Contato
+* Mande uma mensagem pelo GitHub!
