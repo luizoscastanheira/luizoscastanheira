@@ -14,7 +14,7 @@ Focado em arquitetura de dados, segurança e desenvolvimento de software. Recém
 `HTML5` `CSS3` `Desenvolvimento Responsivo`
 
 **Em Aprendizado Ativo**
-`C#` `ASP.NET Core` `.NET Ecosystem`
+`Java` `Spring Boot` `Java Ecosystem`
 
 ---
 
@@ -27,7 +27,7 @@ Focado em arquitetura de dados, segurança e desenvolvimento de software. Recém
 
 ## 📚 Educação e Certificações
 * **Análise e Desenvolvimento de Sistemas** (Graduado)
-* Foco atual: Arquitetura de Software com .NET
+* Foco atual: Arquitetura de Software e Programação Java
 
 ---
 
